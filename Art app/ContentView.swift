@@ -9,7 +9,6 @@ import SwiftUI
 
 struct ContentView: View {
     
-    let art: String = "Author"
     var body: some View {
         
         
